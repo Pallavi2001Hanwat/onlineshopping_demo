@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+.App{
+    min-height: 100vh;
+    display: flex;
+/* background-image: url('../public/logo.webp'); */
+
+ background-color: #000000c4;
+
+color: black;
+    background-position: center;
+}
+

@@ -1,0 +1,37 @@
+/* CartItemPage.css */
+
+.cart-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    
+  }
+  
+  .cart-table thead {
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    height: 56px;
+    
+  }
+  .cart-table thead th{
+    text-align: center;
+  }
+  .cart-table tbody td{
+    width: 187px;
+    text-align: center;
+  }
+  
+  
+  
+  .item-image {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+  
+
+  .horizontal-line {
+    border-bottom: 1px solid #ddd; /* Adjust the color as needed */
+    margin: 10px 0;
+  }

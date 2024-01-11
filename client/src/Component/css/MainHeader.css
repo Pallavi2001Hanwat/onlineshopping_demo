@@ -1,0 +1,19 @@
+
+    .header-container{
+
+        position: fixed;
+    /* padding: 29Px; */
+    width: 100%;
+
+    }
+    img{
+        margin-top: 15px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 48px;
+
+    }
+    .logout-btn{
+        padding-left: 285px;
+    }

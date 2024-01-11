@@ -1,0 +1,37 @@
+.item-container {
+    height: 367px !important;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 0 6px 10px #8080807d;
+  }
+
+.item-image {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.img-div{
+    margin-left: 54px;
+    height: 120px;
+}
+
+.item-text {
+    font-weight: bold;
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    justify-content: space-around;
+}
+
+
+
+/* input {
+    width: 50px;
+    text-align: center;
+    padding: 6px;
+    margin: 0 8px;
+} */

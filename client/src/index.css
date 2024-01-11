@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.button{
+  background-color: #D2042D;
+  color: white;
+border: none;
+padding:8px 22px;
+text-align: center;
+text-decoration: none;
+/* display: inline-block; */
+font-size: 16px;
+border-radius: 10px;
+}
+.bg-white{
+  background-color: white;
+}
+
+
+
+.Navmaincontain {
+
+  text-align: center;
+  justify-content: space-around;
+  padding-top: 16px;
+  padding-bottom: 15px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+border-radius: 8px;
+margin-top: 40px ;
+}
+
+h1{
+  font-size: 30px;
+    padding: 9px;
+    text-align: center;
+}
+.Quantitybutton {
+  background-color: #D2042D;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+input[type="number"]{
+  text-align: center;
+  border: 1px solid black;
+  height: 35px;
+  width: 50%;
+  border-radius: 6px;
+
+}
